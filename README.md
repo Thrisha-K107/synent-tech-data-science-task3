@@ -156,12 +156,6 @@ python task3_eda_netflix.py
 
 > **Note:** Download the Netflix dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) and place it as `netflix_titles.csv` in the same directory if the URL fails.
 
----
 
-## 🔗 Repository
-
-`synent-task3-netflixeda-<yourname>`
-
----
 
 *Synent Technologies Data Science Internship — Task 3*
